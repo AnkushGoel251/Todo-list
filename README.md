@@ -30,7 +30,7 @@ This project is a simple Todo application built using Spring Boot for the backen
 ### Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/AnkushGoel251/Todo-list.git
 ```
 
 ### Backend
@@ -81,3 +81,7 @@ The frontend will start running on `http://localhost:5173`.
 
 Contributions to the project are welcome! If you find any issues or have suggestions for improvement, please
 open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
